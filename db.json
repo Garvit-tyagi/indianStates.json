@@ -921,21 +921,10 @@
             "code": "PY",
             "name": "Puducherry",
             "districts": [
+                
                 {
                     "id": "1",
-                    "name": "Karaikal"
-                },
-                {
-                    "id": "2",
-                    "name": "Mahe"
-                },
-                {
-                    "id": "3",
                     "name": "Pondicherry"
-                },
-                {
-                    "id": "4",
-                    "name": "Yanam"
                 }
             ]
         },
@@ -952,87 +941,31 @@
                 },
                 {
                     "id": "2",
-                    "name": "Barnala"
+                    "name": "jalandar"
                 },
                 {
                     "id": "3",
-                    "name": "Bathinda"
+                    "name": "patiala"
                 },
                 {
                     "id": "4",
-                    "name": "Faridkot"
+                    "name": "pathankot"
                 },
                 {
                     "id": "5",
-                    "name": "Fatehgarh Sahib"
+                    "name": "mohali"
                 },
                 {
                     "id": "6",
-                    "name": "Fazilka"
+                    "name": "ludiana"
                 },
                 {
                     "id": "7",
-                    "name": "Ferozepur"
+                    "name": "bhatinda"
                 },
                 {
                     "id": "8",
-                    "name": "Gurdaspur"
-                },
-                {
-                    "id": "9",
-                    "name": "Hoshiarpur"
-                },
-                {
-                    "id": "10",
-                    "name": "Jalandhar"
-                },
-                {
-                    "id": "11",
-                    "name": "Kapurthala"
-                },
-                {
-                    "id": "12",
-                    "name": "Ludhiana"
-                },
-                {
-                    "id": "13",
-                    "name": "Mansa"
-                },
-                {
-                    "id": "14",
-                    "name": "Moga"
-                },
-                {
-                    "id": "15",
-                    "name": "Muktsar"
-                },
-                {
-                    "id": "16",
-                    "name": "Nawanshahr (Shahid Bhagat Singh Nagar)"
-                },
-                {
-                    "id": "17",
-                    "name": "Pathankot"
-                },
-                {
-                    "id": "18",
-                    "name": "Patiala"
-                },
-                {
-                    "id": "19",
-                    "name": "Rupnagar"
-                },
-                {
-                    "id": "20",
-                    "name": "Sahibzada Ajit Singh Nagar (Mohali)"
-                },
-                {
-                    "id": "21",
-                    "name": "Sangrur"
-                },
-                {
-                    "id": "22",
-                    "name": "Tarn Taran"
+                    "name": "kapurthala"
                 }
             ]
         },
@@ -1053,127 +986,59 @@
                 },
                 {
                     "id": "3",
-                    "name": "Banswara"
-                },
-                {
-                    "id": "4",
-                    "name": "Baran"
-                },
-                {
-                    "id": "5",
-                    "name": "Barmer"
-                },
-                {
-                    "id": "6",
                     "name": "Bharatpur"
                 },
                 {
-                    "id": "7",
-                    "name": "Bhilwara"
-                },
-                {
-                    "id": "8",
+                    "id": "4",
                     "name": "Bikaner"
                 },
                 {
-                    "id": "9",
+                    "id": "5",
                     "name": "Bundi"
                 },
                 {
+                    "id": "6",
+                    "name": "chittorgarh"
+                },
+                {
+                    "id": "7",
+                    "name": "jaipur"
+                },
+                {
+                    "id": "8",
+                    "name": "jaisalmer"
+                },
+                {
+                    "id": "9",
+                    "name": "jodhpur"
+                },
+                {
                     "id": "10",
-                    "name": "Chittorgarh"
+                    "name": "mt.abu"
                 },
                 {
                     "id": "11",
-                    "name": "Churu"
+                    "name": "pushkar"
                 },
                 {
                     "id": "12",
-                    "name": "Dausa"
+                    "name": "udaipur"
                 },
                 {
                     "id": "13",
-                    "name": "Dholpur"
+                    "name": "ranthambore"
                 },
                 {
                     "id": "14",
-                    "name": "Dungarpur"
+                    "name": "sikar"
                 },
                 {
                     "id": "15",
-                    "name": "Hanumangarh"
+                    "name": "nathwara"
                 },
                 {
                     "id": "16",
-                    "name": "Jaipur"
-                },
-                {
-                    "id": "17",
-                    "name": "Jaisalmer"
-                },
-                {
-                    "id": "18",
-                    "name": "Jalore"
-                },
-                {
-                    "id": "19",
-                    "name": "Jhalawar"
-                },
-                {
-                    "id": "20",
-                    "name": "Jhunjhunu"
-                },
-                {
-                    "id": "21",
-                    "name": "Jodhpur"
-                },
-                {
-                    "id": "22",
-                    "name": "Karauli"
-                },
-                {
-                    "id": "23",
-                    "name": "Kota"
-                },
-                {
-                    "id": "24",
-                    "name": "Nagaur"
-                },
-                {
-                    "id": "25",
-                    "name": "Pali"
-                },
-                {
-                    "id": "26",
-                    "name": "Pratapgarh"
-                },
-                {
-                    "id": "27",
-                    "name": "Rajsamand"
-                },
-                {
-                    "id": "28",
-                    "name": "Sawai Madhopur"
-                },
-                {
-                    "id": "29",
-                    "name": "Sikar"
-                },
-                {
-                    "id": "30",
-                    "name": "Sirohi"
-                },
-                {
-                    "id": "31",
-                    "name": "Sri Ganganagar"
-                },
-                {
-                    "id": "32",
-                    "name": "Tonk"
-                },
-                {
-                    "id": "33",
-                    "name": "Udaipur"
+                    "name": "dausa"
                 }
             ]
         },
@@ -1186,19 +1051,19 @@
             "districts": [
                 {
                     "id": "1",
-                    "name": "East Sikkim"
+                    "name": "gangtok"
                 },
                 {
                     "id": "2",
-                    "name": "North Sikkim"
+                    "name": "Namchi"
                 },
                 {
                     "id": "3",
-                    "name": "South Sikkim"
+                    "name": "pelling"
                 },
                 {
                     "id": "4",
-                    "name": "West Sikkim"
+                    "name": "ravangla"
                 }
             ]
         },
@@ -1211,131 +1076,55 @@
             "districts": [
                 {
                     "id": "1",
-                    "name": "Ariyalur"
-                },
-                {
-                    "id": "2",
                     "name": "Chennai"
                 },
                 {
+                    "id": "2",
+                    "name": "ooty"
+                },
+                {
                     "id": "3",
-                    "name": "Coimbatore"
+                    "name": "kanyakumari"
                 },
                 {
                     "id": "4",
-                    "name": "Cuddalore"
+                    "name": "Coimbatore"
                 },
                 {
                     "id": "5",
-                    "name": "Dharmapuri"
+                    "name": "kodaikanal"
                 },
                 {
                     "id": "6",
-                    "name": "Dindigul"
+                    "name": "madurai"
                 },
                 {
                     "id": "7",
-                    "name": "Erode"
+                    "name": "tiruchirappali"
                 },
                 {
                     "id": "8",
-                    "name": "Kanchipuram"
+                    "name": "triunelveli"
                 },
                 {
                     "id": "9",
-                    "name": "Kanyakumari"
+                    "name": "vellore"
                 },
                 {
                     "id": "10",
-                    "name": "Karur"
+                    "name": "chidambaram"
                 },
                 {
                     "id": "11",
-                    "name": "Krishnagiri"
+                    "name": "coonoor"
                 },
                 {
                     "id": "12",
-                    "name": "Madurai"
+                    "name": "thanjapur"
                 },
                 {
                     "id": "13",
-                    "name": "Nagapattinam"
-                },
-                {
-                    "id": "14",
-                    "name": "Namakkal"
-                },
-                {
-                    "id": "15",
-                    "name": "Nilgiris"
-                },
-                {
-                    "id": "16",
-                    "name": "Perambalur"
-                },
-                {
-                    "id": "17",
-                    "name": "Pudukkottai"
-                },
-                {
-                    "id": "18",
-                    "name": "Ramanathapuram"
-                },
-                {
-                    "id": "19",
-                    "name": "Salem"
-                },
-                {
-                    "id": "20",
-                    "name": "Sivaganga"
-                },
-                {
-                    "id": "21",
-                    "name": "Thanjavur"
-                },
-                {
-                    "id": "22",
-                    "name": "Theni"
-                },
-                {
-                    "id": "23",
-                    "name": "Thoothukudi (Tuticorin)"
-                },
-                {
-                    "id": "24",
-                    "name": "Tiruchirappalli"
-                },
-                {
-                    "id": "25",
-                    "name": "Tirunelveli"
-                },
-                {
-                    "id": "26",
-                    "name": "Tiruppur"
-                },
-                {
-                    "id": "27",
-                    "name": "Tiruvallur"
-                },
-                {
-                    "id": "28",
-                    "name": "Tiruvannamalai"
-                },
-                {
-                    "id": "29",
-                    "name": "Tiruvarur"
-                },
-                {
-                    "id": "30",
-                    "name": "Vellore"
-                },
-                {
-                    "id": "31",
-                    "name": "Viluppuram"
-                },
-                {
-                    "id": "32",
-                    "name": "Virudhunagar"
+                    "name": "kumbakonam"
                 }
             ]
         },
@@ -1348,127 +1137,27 @@
             "districts": [
                 {
                     "id": "1",
-                    "name": "Adilabad"
-                },
-                {
-                    "id": "2",
-                    "name": "Bhadradri Kothagudem"
-                },
-                {
-                    "id": "3",
                     "name": "Hyderabad"
                 },
                 {
+                    "id": "2",
+                    "name": "Adilaba"
+                },
+                {
+                    "id": "3",
+                    "name": "nalgonda"
+                },
+                {
                     "id": "4",
-                    "name": "Jagtial"
+                    "name": "khammam"
                 },
                 {
                     "id": "5",
-                    "name": "Jangaon"
+                    "name": "nizamabad"
                 },
                 {
                     "id": "6",
-                    "name": "Jayashankar Bhoopalpally"
-                },
-                {
-                    "id": "7",
-                    "name": "Jogulamba Gadwal"
-                },
-                {
-                    "id": "8",
-                    "name": "Kamareddy"
-                },
-                {
-                    "id": "9",
-                    "name": "Karimnagar"
-                },
-                {
-                    "id": "10",
-                    "name": "Khammam"
-                },
-                {
-                    "id": "11",
-                    "name": "Komaram Bheem Asifabad"
-                },
-                {
-                    "id": "12",
-                    "name": "Mahabubabad"
-                },
-                {
-                    "id": "13",
-                    "name": "Mahabubnagar"
-                },
-                {
-                    "id": "14",
-                    "name": "Mancherial"
-                },
-                {
-                    "id": "15",
-                    "name": "Medak"
-                },
-                {
-                    "id": "16",
-                    "name": "Medchal"
-                },
-                {
-                    "id": "17",
-                    "name": "Nagarkurnool"
-                },
-                {
-                    "id": "18",
-                    "name": "Nalgonda"
-                },
-                {
-                    "id": "19",
-                    "name": "Nirmal"
-                },
-                {
-                    "id": "20",
-                    "name": "Nizamabad"
-                },
-                {
-                    "id": "21",
-                    "name": "Peddapalli"
-                },
-                {
-                    "id": "22",
-                    "name": "Rajanna Sircilla"
-                },
-                {
-                    "id": "23",
-                    "name": "Rangareddy"
-                },
-                {
-                    "id": "24",
-                    "name": "Sangareddy"
-                },
-                {
-                    "id": "25",
-                    "name": "Siddipet"
-                },
-                {
-                    "id": "26",
-                    "name": "Suryapet"
-                },
-                {
-                    "id": "27",
-                    "name": "Vikarabad"
-                },
-                {
-                    "id": "28",
-                    "name": "Wanaparthy"
-                },
-                {
-                    "id": "29",
-                    "name": "Warangal (Rural)"
-                },
-                {
-                    "id": "30",
-                    "name": "Warangal (Urban)"
-                },
-                {
-                    "id": "31",
-                    "name": "Yadadri Bhuvanagiri"
+                    "name": "warangal"
                 }
             ]
         },
@@ -1481,35 +1170,23 @@
             "districts": [
                 {
                     "id": "1",
-                    "name": "Dhalai"
+                    "name": "agartala"
                 },
                 {
                     "id": "2",
-                    "name": "Gomati"
+                    "name": "ambasa"
                 },
                 {
                     "id": "3",
-                    "name": "Khowai"
+                    "name": "Kailashahar"
                 },
                 {
                     "id": "4",
-                    "name": "North Tripura"
+                    "name": "dharmanagar"
                 },
                 {
                     "id": "5",
-                    "name": "Sepahijala"
-                },
-                {
-                    "id": "6",
-                    "name": "South Tripura"
-                },
-                {
-                    "id": "7",
-                    "name": "Unakoti"
-                },
-                {
-                    "id": "8",
-                    "name": "West Tripura"
+                    "name": "udaipur"
                 }
             ]
         },
@@ -1526,299 +1203,63 @@
                 },
                 {
                     "id": "2",
-                    "name": "Aligarh"
+                    "name": "mathura"
                 },
                 {
                     "id": "3",
-                    "name": "Allahabad"
+                    "name": "vrindavan"
                 },
                 {
                     "id": "4",
-                    "name": "Ambedkar Nagar"
+                    "name": "varanasi"
                 },
                 {
                     "id": "5",
-                    "name": "Amethi (Chatrapati Sahuji Mahraj Nagar)"
+                    "name": "lucknow"
                 },
                 {
                     "id": "6",
-                    "name": "Amroha (J.P. Nagar)"
+                    "name": "Allahabad"
                 },
                 {
                     "id": "7",
-                    "name": "Auraiya"
+                    "name": "kanpur"
                 },
                 {
                     "id": "8",
-                    "name": "Azamgarh"
+                    "name": "ayodhya"
                 },
                 {
                     "id": "9",
-                    "name": "Baghpat"
+                    "name": "jhansi"
                 },
                 {
                     "id": "10",
-                    "name": "Bahraich"
+                    "name": "kushinagar"
                 },
                 {
                     "id": "11",
-                    "name": "Ballia"
+                    "name": "fatehpur sikri"
                 },
                 {
                     "id": "12",
-                    "name": "Balrampur"
+                    "name": "meerut"
                 },
                 {
                     "id": "13",
-                    "name": "Banda"
+                    "name": "aligarh"
                 },
                 {
                     "id": "14",
-                    "name": "Barabanki"
+                    "name": "sarnath"
                 },
                 {
                     "id": "15",
-                    "name": "Bareilly"
+                    "name": "noida"
                 },
                 {
                     "id": "16",
-                    "name": "Basti"
-                },
-                {
-                    "id": "17",
-                    "name": "Bhadohi"
-                },
-                {
-                    "id": "18",
-                    "name": "Bijnor"
-                },
-                {
-                    "id": "19",
-                    "name": "Budaun"
-                },
-                {
-                    "id": "20",
-                    "name": "Bulandshahr"
-                },
-                {
-                    "id": "21",
-                    "name": "Chandauli"
-                },
-                {
-                    "id": "22",
-                    "name": "Chitrakoot"
-                },
-                {
-                    "id": "23",
-                    "name": "Deoria"
-                },
-                {
-                    "id": "24",
-                    "name": "Etah"
-                },
-                {
-                    "id": "25",
-                    "name": "Etawah"
-                },
-                {
-                    "id": "26",
-                    "name": "Faizabad"
-                },
-                {
-                    "id": "27",
-                    "name": "Farrukhabad"
-                },
-                {
-                    "id": "28",
-                    "name": "Fatehpur"
-                },
-                {
-                    "id": "29",
-                    "name": "Firozabad"
-                },
-                {
-                    "id": "30",
-                    "name": "Gautam Buddha Nagar"
-                },
-                {
-                    "id": "31",
-                    "name": "Ghaziabad"
-                },
-                {
-                    "id": "32",
-                    "name": "Ghazipur"
-                },
-                {
-                    "id": "33",
-                    "name": "Gonda"
-                },
-                {
-                    "id": "34",
-                    "name": "Gorakhpur"
-                },
-                {
-                    "id": "35",
-                    "name": "Hamirpur"
-                },
-                {
-                    "id": "36",
-                    "name": "Hapur (Panchsheel Nagar)"
-                },
-                {
-                    "id": "37",
-                    "name": "Hardoi"
-                },
-                {
-                    "id": "38",
-                    "name": "Hathras"
-                },
-                {
-                    "id": "39",
-                    "name": "Jalaun"
-                },
-                {
-                    "id": "40",
-                    "name": "Jaunpur"
-                },
-                {
-                    "id": "41",
-                    "name": "Jhansi"
-                },
-                {
-                    "id": "42",
-                    "name": "Kannauj"
-                },
-                {
-                    "id": "43",
-                    "name": "Kanpur Dehat"
-                },
-                {
-                    "id": "44",
-                    "name": "Kanpur Nagar"
-                },
-                {
-                    "id": "45",
-                    "name": "Kanshiram Nagar (Kasganj)"
-                },
-                {
-                    "id": "46",
-                    "name": "Kaushambi"
-                },
-                {
-                    "id": "47",
-                    "name": "Kushinagar (Padrauna)"
-                },
-                {
-                    "id": "48",
-                    "name": "Lakhimpur - Kheri"
-                },
-                {
-                    "id": "49",
-                    "name": "Lalitpur"
-                },
-                {
-                    "id": "50",
-                    "name": "Lucknow"
-                },
-                {
-                    "id": "51",
-                    "name": "Maharajganj"
-                },
-                {
-                    "id": "52",
-                    "name": "Mahoba"
-                },
-                {
-                    "id": "53",
-                    "name": "Mainpuri"
-                },
-                {
-                    "id": "54",
-                    "name": "Mathura"
-                },
-                {
-                    "id": "55",
-                    "name": "Mau"
-                },
-                {
-                    "id": "56",
-                    "name": "Meerut"
-                },
-                {
-                    "id": "57",
-                    "name": "Mirzapur"
-                },
-                {
-                    "id": "58",
-                    "name": "Moradabad"
-                },
-                {
-                    "id": "59",
-                    "name": "Muzaffarnagar"
-                },
-                {
-                    "id": "60",
-                    "name": "Pilibhit"
-                },
-                {
-                    "id": "61",
-                    "name": "Pratapgarh"
-                },
-                {
-                    "id": "62",
-                    "name": "RaeBareli"
-                },
-                {
-                    "id": "63",
-                    "name": "Rampur"
-                },
-                {
-                    "id": "64",
-                    "name": "Saharanpur"
-                },
-                {
-                    "id": "65",
-                    "name": "Sambhal (Bhim Nagar)"
-                },
-                {
-                    "id": "66",
-                    "name": "Sant Kabir Nagar"
-                },
-                {
-                    "id": "67",
-                    "name": "Shahjahanpur"
-                },
-                {
-                    "id": "68",
-                    "name": "Shamali (Prabuddh Nagar)"
-                },
-                {
-                    "id": "69",
-                    "name": "Shravasti"
-                },
-                {
-                    "id": "70",
-                    "name": "Siddharth Nagar"
-                },
-                {
-                    "id": "71",
-                    "name": "Sitapur"
-                },
-                {
-                    "id": "72",
-                    "name": "Sonbhadra"
-                },
-                {
-                    "id": "73",
-                    "name": "Sultanpur"
-                },
-                {
-                    "id": "74",
-                    "name": "Unnao"
-                },
-                {
-                    "id": "75",
-                    "name": "Varanasi"
+                    "name": "goverdhan"
                 }
             ]
         },
@@ -1831,55 +1272,43 @@
             "districts": [
                 {
                     "id": "1",
-                    "name": "Almora"
+                    "name": "dehradun"
                 },
                 {
                     "id": "2",
-                    "name": "Bageshwar"
+                    "name": "nainital"
                 },
                 {
                     "id": "3",
-                    "name": "Chamoli"
+                    "name": "haridwar"
                 },
                 {
                     "id": "4",
-                    "name": "Champawat"
+                    "name": "ranikhet"
                 },
                 {
                     "id": "5",
-                    "name": "Dehradun"
+                    "name": "kausani"
                 },
                 {
                     "id": "6",
-                    "name": "Haridwar"
+                    "name": "almora"
                 },
                 {
                     "id": "7",
-                    "name": "Nainital"
+                    "name": "rishikesh"
                 },
                 {
                     "id": "8",
-                    "name": "Pauri Garhwal"
+                    "name": "mussoorie"
                 },
                 {
                     "id": "9",
-                    "name": "Pithoragarh"
+                    "name": "kedarnath"
                 },
                 {
                     "id": "10",
-                    "name": "Rudraprayag"
-                },
-                {
-                    "id": "11",
-                    "name": "Tehri Garhwal"
-                },
-                {
-                    "id": "12",
-                    "name": "Udham Singh Nagar"
-                },
-                {
-                    "id": "13",
-                    "name": "Uttarkashi"
+                    "name": "badrinath"
                 }
             ]
         },
@@ -1892,87 +1321,47 @@
             "districts": [
                 {
                     "id": "1",
-                    "name": "Alipurduar"
-                },
-                {
-                    "id": "2",
-                    "name": "Bankura"
-                },
-                {
-                    "id": "3",
-                    "name": "Birbhum"
-                },
-                {
-                    "id": "4",
-                    "name": "Burdwan (Bardhaman)"
-                },
-                {
-                    "id": "5",
-                    "name": "Cooch Behar"
-                },
-                {
-                    "id": "6",
-                    "name": "Dakshin Dinajpur (South Dinajpur)"
-                },
-                {
-                    "id": "7",
-                    "name": "Darjeeling"
-                },
-                {
-                    "id": "8",
-                    "name": "Hooghly"
-                },
-                {
-                    "id": "9",
-                    "name": "Howrah"
-                },
-                {
-                    "id": "10",
-                    "name": "Jalpaiguri"
-                },
-                {
-                    "id": "11",
-                    "name": "Kalimpong"
-                },
-                {
-                    "id": "12",
                     "name": "Kolkata"
                 },
                 {
-                    "id": "13",
-                    "name": "Malda"
+                    "id": "2",
+                    "name": "darjeeling"
                 },
                 {
-                    "id": "14",
-                    "name": "Murshidabad"
+                    "id": "3",
+                    "name": "siliguri"
                 },
                 {
-                    "id": "15",
-                    "name": "Nadia"
+                    "id": "4",
+                    "name": "Bankura"
                 },
                 {
-                    "id": "16",
-                    "name": "North 24 Parganas"
+                    "id": "5",
+                    "name": "hooghly"
                 },
                 {
-                    "id": "17",
-                    "name": "Paschim Medinipur (West Medinipur)"
+                    "id": "6",
+                    "name": "cooch behar"
                 },
                 {
-                    "id": "18",
-                    "name": "Purba Medinipur (East Medinipur)"
+                    "id": "7",
+                    "name": "kalimpong"
                 },
                 {
-                    "id": "19",
-                    "name": "Purulia"
+                    "id": "8",
+                    "name": "kamarpukur"
                 },
                 {
-                    "id": "20",
-                    "name": "South 24 Parganas"
+                    "id": "9",
+                    "name": "murshidabad"
                 },
                 {
-                    "id": "21",
-                    "name": "Uttar Dinajpur (North Dinajpur)"
+                    "id": "10",
+                    "name": "bishnupur"
+                },
+                {
+                    "id": "11",
+                    "name": "barrackpore"
                 }
             ]
         }
